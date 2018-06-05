@@ -18,6 +18,7 @@ import kr.co.pk.service.BoardService;
 
 @Controller
 public class BoardController {
+	//
 	@Autowired
 	private BoardService boardService;
 	
